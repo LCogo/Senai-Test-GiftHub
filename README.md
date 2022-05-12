@@ -2,4 +2,5 @@
 
 readme de exemplo
 
-Lembrei aq de algo aq de novo
+Lembrei aq de algo aq de novo: git commit
+lembrei disso aqui: git status
